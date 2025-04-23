@@ -1,5 +1,3 @@
-package CircunferenceAndValume.MetodosNaPropriaClasse;
-
 import java.util.Locale;
 import java.util.Scanner;
 

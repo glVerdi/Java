@@ -1,7 +1,8 @@
 import java.util.ArrayList;
+import java.util.List;
 import java.util.stream.Collectors;
 
-public class List {
+public class MyList {
 
     public static void main(String[] args) {
         ArrayList<String> list = new ArrayList<>();

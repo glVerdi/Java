@@ -1,5 +1,3 @@
-package CircunferenceAndValume.MetodosDeInstancia;
-
 public class Calculator {
     public final double PI = 3.14159;
     public double circunference(double radius){

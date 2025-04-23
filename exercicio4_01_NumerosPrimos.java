@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercicio4_01_NumerosImpares {
+public class exercicio4_01_NumerosPrimos {
 
 	public static void main(String[] args) {
 		
